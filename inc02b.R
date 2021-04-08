@@ -1,4 +1,4 @@
-c <- 299792458
+c <- 299792458 #speed of light
 lightMinute <- c * 60
 lightHour <- 60 * lightMinute
 lightDay <- 24 * lightHour
